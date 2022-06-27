@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+# Canon.com/ijsetup 
 
-You can use the [editor on GitHub](https://github.com/httpscanonijsetup/httpscanonijsetup.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+The Cãnon printer driver software is a famous brand that provides the best printing, scanning, faxing and copying documents. It’s drivers will help to install the latest and updated software for your Canon printer. Visit canon printer official website: [canon.com/ijsetup](https://httpscanonijsetup.github.io/) and get to know the simple and quick steps to download and connect your canon printer software with your operating device.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## How To Download and Install Canon Printer Setup ?
+ 
+**The steps to download and install canon printer driver are given below:**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. You can download Cãnon products from [canon.com/ijsetup](https://httpscanonijsetup.github.io/).
+2. Enter The Product Model Number you wish to download.
+3. Click the download button and start the download process.
+4. Wait for a while and then, run the file to start the installation process.
+5. Follow the instructions on your screen and complete the canon printer setup. 
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## How to Install canon printer setup ?
 
-- Bulleted
-- List
+**The following steps will help you install the canon printer setup easily. Follow them systematically and without facing any issue:**
 
-1. Numbered
-2. List
+1. Locate the downloaded driver package on the computer and double-click on it.
+2. Then, select the USB option as a printer connection type.
+3. A new Welcome screen of the **“Installation Wizard”** will appear. 
+4. Then, click **"I Agree"** to continue the process of installation.
+5. Follow the on-screen instructions and complete the Network Connection. 
+6. Then, wait for the process to complete successfully. 
+7. Finally, click **“Exit”** and restart your computer to complete the process. 
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## Prerequisite before you install canon printer setup – Canon.com/ijsetup
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/httpscanonijsetup/httpscanonijsetup.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+* Update the operating driver from settings or online.
+* Check whether your system has enough space or not.
+* Make sure your printer is properly plugged in.
+* Connect the device with an internet connection.
